@@ -2,6 +2,7 @@
 Creating a decentralized exchange for the Braineum Ecosystem.
 ![BraineumDEX](https://github.com/rbensonevans/braineumDEX/blob/master/images/blue_eth%20sm.jpeg)
 
+## Project Notes:
 The base source for this project comes from a Moralis youtube video called:
 How to Create a DEX Like Uniswap FULL COURSE.
 
